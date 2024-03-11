@@ -97,6 +97,7 @@ export const Pano = () => {
                 sceneId="firstScene"
                 imageSource={myImage}
                 config={config.config}
+                style={{ width: "100%", height: "100%" }}
             />
         </div>
 
